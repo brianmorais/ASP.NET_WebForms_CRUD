@@ -1,0 +1,56 @@
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll.config
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.pdb
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csprojResolveAssemblyReference.cache
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CoreCompileInputs.cache
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.dll
+C:\Users\Laboratório\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.pdb
+E:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll.config
+E:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll
+E:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.pdb
+E:\PC4\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PC4\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csprojResolveAssemblyReference.cache
+E:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CoreCompileInputs.cache
+E:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.dll
+E:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.pdb
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll.config
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.pdb
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csprojResolveAssemblyReference.cache
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CoreCompileInputs.cache
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CopyComplete
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.dll
+C:\Users\brian.morais\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.pdb
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\bin\ExemploCrud.dll.config
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\bin\ExemploCrud.dll
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\bin\ExemploCrud.pdb
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\obj\Debug\ExemploCrud.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\obj\Debug\ExemploCrud.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\obj\Debug\ExemploCrud.dll
+C:\Users\Brian\Desktop\ExemploCrud - Copia\ExemploCrud\obj\Debug\ExemploCrud.pdb
+D:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll.config
+D:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll
+D:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.pdb
+D:\PC4\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PC4\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csprojResolveAssemblyReference.cache
+D:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CoreCompileInputs.cache
+D:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.dll
+D:\PC4\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.pdb
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll.config
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\bin\ExemploCrud.pdb
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csprojAssemblyReference.cache
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.csproj.CopyComplete
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.dll
+C:\Users\Brian\Desktop\ExemploCrud\ExemploCrud\obj\Debug\ExemploCrud.pdb
