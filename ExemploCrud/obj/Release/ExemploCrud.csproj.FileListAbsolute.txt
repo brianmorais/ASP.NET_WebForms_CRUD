@@ -1,0 +1,8 @@
+E:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll.config
+E:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.dll
+E:\PC4\ExemploCrud\ExemploCrud\bin\ExemploCrud.pdb
+E:\PC4\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PC4\ExemploCrud\ExemploCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PC4\ExemploCrud\ExemploCrud\obj\Release\ExemploCrud.csproj.CoreCompileInputs.cache
+E:\PC4\ExemploCrud\ExemploCrud\obj\Release\ExemploCrud.dll
+E:\PC4\ExemploCrud\ExemploCrud\obj\Release\ExemploCrud.pdb
